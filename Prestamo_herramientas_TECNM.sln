@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prestamo_herramientas_TECNM", "Prestamo_herramientas_TECNM\Prestamo_herramientas_TECNM.csproj", "{76E3BA11-214C-48CE-B872-2A9E235E7241}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76E3BA11-214C-48CE-B872-2A9E235E7241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76E3BA11-214C-48CE-B872-2A9E235E7241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76E3BA11-214C-48CE-B872-2A9E235E7241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76E3BA11-214C-48CE-B872-2A9E235E7241}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C6863BE-E948-477C-A2DD-DA92D7E0DC36}
+	EndGlobalSection
+EndGlobal
